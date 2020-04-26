@@ -14,7 +14,6 @@ public class Greeter {
 
   //TODO: Add javadoc comment
   public String greet(String someone) {
-	  System.out.println("Adding fom Eclipse");
     return String.format("Hello123, %s!", someone);
   }
 }
