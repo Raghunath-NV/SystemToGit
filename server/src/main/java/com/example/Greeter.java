@@ -15,7 +15,6 @@ public class Greeter {
   //TODO: Add javadoc comment
   public String greet(String someone) {
 	  System.out.println("commit2");
-	  System.out.println("Added from test branch");
     return String.format("Hello123, %s!", someone);
   }
 }
