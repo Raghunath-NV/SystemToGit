@@ -16,6 +16,7 @@ public class Greeter {
   public String greet(String someone) {
 	  System.out.println("commit2");
 	  System.out.println("commit3");
+	  System.out.println("commit4");
     return String.format("Hello123, %s!", someone);
   }
 }
